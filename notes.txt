@@ -1,0 +1,3 @@
+new keyword
+create an empty object in function(this value is depend upon scope)
+reassign the value of this to empty object.
